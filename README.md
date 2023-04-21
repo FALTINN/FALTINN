@@ -1,10 +1,8 @@
-<h1>Hello, it's my github account with terrible project and code. Some facts about me:</h1>
-<il>
-<li>I'am 14 years old</li>
-<li>I program in python</li>
-<li>I'm learning JS, WEB Development and other frameworks for Python</li>
-</il>
-
+### Hello, it's my github account with terrible projects and code. Some facts about me:
+ - I'm from Russia
+ - I'm 14 years old
+ - I program in Python
+ - I'm learning JS, WEB Development and other frameworks for Python
 
 <!--
 **FALTINN/FALTINN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
