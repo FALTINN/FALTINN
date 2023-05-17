@@ -1,7 +1,7 @@
 ### Hello, it's my github account with terrible projects and code. Some facts about me:
  - I'm from Russia
- - I'm 14 years old
- - I program in Python
+ - I'm 14
+ - I program in Python, JS
  - I'm learning JS, WEB Development and other frameworks for Python
 
 <!--
