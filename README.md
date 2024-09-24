@@ -1,6 +1,6 @@
 ### Hello, it's my github account with terrible projects and code. Some facts about me:
  - I'm from Russia
- - I'm 15
+ - I'm 15 y.o
  - I program in Python, JS, C#
  - I'm learning JS, WEB Development and other frameworks for Python
 
